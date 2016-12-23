@@ -46,12 +46,7 @@
     button_Delete.backgroundColor = [UIColor redColor];
     [self.view addSubview:button_Delete];
     
-    UIButton *button5 = [[UIButton alloc] initWithFrame:CGRectMake(200, 600, 60, 60)];
-    [button5 addTarget:self action:@selector(buttonClick:) forControlEvents:UIControlEventTouchUpInside];
-    button5.tag = 5;
-    [button5 setTitle:@"插入" forState:UIControlStateNormal];
-    [self.view addSubview:button5];
-    
+      
     
     
     
