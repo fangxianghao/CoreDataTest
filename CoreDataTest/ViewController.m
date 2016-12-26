@@ -46,12 +46,7 @@
     button_Delete.backgroundColor = [UIColor redColor];
     [self.view addSubview:button_Delete];
     
-      //branch test
-    //hello
     
-    //123
-    
-    //abc
 }
 
 -(void)buttonClick:(UIButton *)button{
