@@ -47,12 +47,15 @@
     [self.view addSubview:button_Delete];
     
       //branch test
+    //hello
     
     //123
     
-    //abc
-    
+<<<<<<< HEAD
     //efg
+=======
+    //abc
+>>>>>>> master
 }
 
 -(void)buttonClick:(UIButton *)button{
