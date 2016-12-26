@@ -47,7 +47,6 @@
     [self.view addSubview:button_Delete];
     
       //branch test
-    //nihao
     
     
 }
